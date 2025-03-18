@@ -6,7 +6,7 @@ public class Cat {
 
     private final Feline feline;
 
-    public Cat(Feline feline) {  // Конструктор теперь принимает Feline
+    public Cat(Feline feline) {
         this.feline = feline;
     }
 
